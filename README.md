@@ -10,7 +10,7 @@ A tic-tac-toe game built using React to practice inheritance between parent and 
 
 1. Simply download the folder to your local machine or fork the project
 2. Navigate to the root folder within the terminal
-3. Run <code>npm install</code> and <code>npm start</code>.
+3. Run <code>npm install</code> and <code>npx http-server -c-1</code>.
 
 The program will then be run in your browser!
 
